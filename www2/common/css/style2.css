@@ -1,0 +1,13 @@
+p { font-size: 20px; }
+
+/*topのグローバルナビ*/
+#pageHead  .globalNavi  {padding:  10px  0;}
+
+#pageHead  .globalNavi  ul  li {list-style:  none;
+                                width:  245px;
+                                float:  left;
+                                -moz-box-sizing:  border-box;
+                                box-sizing:  border-box;}
+                                
+#pageHead  .globalNavi  ul  li  a {padding:  5px  0;}
+
